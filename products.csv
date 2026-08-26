@@ -1,0 +1,31 @@
+product,category,cost,price,sales,inventory,competitor_price
+Brake Pads Nissan NP300,Auto Parts,450,850,2,18,820
+Oil Filter Nissan Versa,Auto Parts,120,250,15,3,260
+Air Filter Toyota Hilux,Auto Parts,180,400,3,25,350
+Spark Plugs Ford Ranger,Auto Parts,200,450,8,10,440
+Headlight Chevrolet Aveo,Auto Parts,700,1200,1,20,1050
+Car Battery Universal,Auto Parts,900,1500,12,5,1550
+Brake Disc Toyota Corolla,Auto Parts,800,1400,6,8,1350
+Clutch Kit Nissan Sentra,Auto Parts,1800,3000,2,15,2850
+Windshield Wiper Set,Auto Parts,150,350,20,30,340
+Engine Air Filter Honda Civic,Auto Parts,220,450,4,22,390
+Running Shoes,Nike,900,1600,3,20,1450
+Running Shoes,Adidas,800,1500,12,6,1550
+Football Shoes,Puma,700,1300,8,12,1250
+Hoodie,Clothing,400,900,2,25,800
+Jeans,Clothing,500,1000,15,5,1050
+T-Shirt,Clothing,150,400,25,40,380
+Winter Jacket,Clothing,900,1800,3,18,1650
+Baseball Cap,Clothing,100,300,18,8,280
+Gaming Mouse,Electronics,400,800,4,22,700
+Mechanical Keyboard,Electronics,700,1400,7,15,1350
+Wireless Headphones,Electronics,600,1200,2,30,1050
+USB Cable,Electronics,50,150,35,50,140
+Bluetooth Speaker,Electronics,500,1000,10,7,1050
+Laptop Stand,Electronics,300,650,5,20,600
+Smart Watch,Electronics,1200,2200,3,25,1950
+Water Bottle,Accessories,100,300,20,35,280
+Backpack,Accessories,350,800,6,18,750
+Sunglasses,Accessories,250,700,2,30,600
+Phone Case,Accessories,80,250,30,45,230
+Travel Bag,Accessories,500,1100,4,20,950
